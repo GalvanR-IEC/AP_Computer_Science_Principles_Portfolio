@@ -5,7 +5,8 @@
 ">
 
 
-<img src = "![GalvanR_Initials](https://github.com/user-attachments/assets/e06ce27f-c2a2-4417-a6eb-050abc0e1de6)
+<img src = "<img width="765" height="319" alt="image" src="https://github.com/user-attachments/assets/86f9aecd-25af-409a-bfae-43b0c53c9f6b" />
+
 ">
 
 
