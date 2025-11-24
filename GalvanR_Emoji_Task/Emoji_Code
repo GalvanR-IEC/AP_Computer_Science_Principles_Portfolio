@@ -1,1 +1,4 @@
-
+Circle(200 ,200 ,150, fill='yellow' , border='black' , borderWidth=4)
+Circle(150 ,150 ,20, fill='black')
+Circle(250 ,150 ,20, fill='black')
+Arc(200, 250, 100, 50, 90, 180,  border='black', borderWidth=4)
