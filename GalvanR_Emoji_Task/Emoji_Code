@@ -1,3 +1,4 @@
+Rect(0,0,400,400, fill='skyblue')
 Circle(200 ,200 ,150, fill='yellow' , border='black' , borderWidth=4)
 Circle(150 ,150 ,20, fill='black')
 Circle(250 ,150 ,20, fill='black')
