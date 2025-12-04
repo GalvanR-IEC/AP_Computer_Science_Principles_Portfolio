@@ -1,1 +1,1 @@
-
+I selected the yellow face emoji with the shiny smile and aura. This emoji represents my optimism and my eagerness to learn. My goal was a successful project. I learned two key skills: using if/then logic and creating a flowchart for planning. My main challenge was fixing a code loop; I found the mistake by checking each line of code. Next time, I would sketch the design more carefully for a cleaner look. Future development includes adding more color options and different aura styles. I answered all required code analysis questions completely.
