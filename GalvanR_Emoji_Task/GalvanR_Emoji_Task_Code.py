@@ -12,3 +12,6 @@ Arc(200, 250, 100, 50, 90, 180,  border='white', borderWidth=4)
 Arc(200, 250, 100, 50, 90, 180,  border='white', borderWidth=4)
 #sparkle
 Star(240,260,18,5, fill='white', border='gold', borderWidth=2, roundness=20)
+#aura
+Circle(180,210,200, fill='lightyellow',opacity=60)
+Circle(220,210,200, fill='lightyellow',opacity=60)
